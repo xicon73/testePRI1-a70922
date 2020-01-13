@@ -1,0 +1,18 @@
+Link Github: https://github.com/xicon73/testePRI1-a70922.git
+
+PARTE I:
+
+Importação para o mongoDB utilizando o seguinte comando: mongoimport --db mydb --collection pubs --file dataset.json --jsonArray
+Resultado:
+2020-01-13T15:15:31.812+0000	connected to: mongodb://localhost/
+2020-01-13T15:15:31.835+0000	120 document(s) imported successfully. 0 document(s) failed to import.
+
+PARTE 2
+
+Respostas:
+
+1. 76 Tipologias
+2. 5 Entidades
+3. 21
+4. Administração Pública e Forças e serviços de segurança
+
